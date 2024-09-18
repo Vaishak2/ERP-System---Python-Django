@@ -1,2 +1,19 @@
-# ERP-System---Python-Django
-Developed and implemented an Enterprise Resource Planning (ERP) system using Python and Django, designed to streamline business processes and provide seamless integration across various functional modules.
+"# erp-in-Python-Django" 
+
+ERP-Enterprise Resource Planning in Python Django|ERP Projects|ERP Solution|ERP with Source Code
+================================================================================================
+
+
+Youtube Tutorial : https://www.youtube.com/watch?v=4tOFOtvlGrA
+
+
+Donate to Paypal : https://www.paypal.com/paypalme/patacorporation
+
+
+
+
+https://www.binance.com/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00OKE6XXH8
+
+
+
+
